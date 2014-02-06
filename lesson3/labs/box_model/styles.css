@@ -1,0 +1,36 @@
+body {
+	background-color: white;
+}
+
+
+h1 {
+	background-color: #71DE9E;
+	padding: 10px;
+	border: solid 10px #86BBD5;
+	margin: 10px;
+}
+
+li{
+	background-color: #71DE9E;
+	padding: 10px;
+	border: solid 10px #86BBD5;
+	margin: 10px;
+	width: 200px;
+	
+}
+
+h2 {
+	background-color: #EDE275;
+	padding: 10px;
+	border: solid 10px #A3A2A0;
+	margin: 10px;
+	width: 200px;
+	font-family: verdana;
+	font-style: italic;
+	text-decoration: underline; 
+	text-align: center;
+
+
+}
+
+

@@ -64,11 +64,17 @@ img {
 footer ul {
 	padding: 0px;
 	margin: 0 auto;
-	width: 420px;
+	width: 500px;
 	overflow: hidden;
-	
- 
+}
 
+footer ul li {
+	border-right: solid 1px black;
+	padding-right: 10px;
+}
+
+footer ul li.last-li {
+	border-right: solid 0px black;
 }
 
 
@@ -76,11 +82,3 @@ footer ul {
 
 
 
-
-
-
-
-
-
-
-}
